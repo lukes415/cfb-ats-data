@@ -15,4 +15,6 @@ We pull, clean, and manipulate data from:
 - [ ] See if my model can outperform me in my pickem league. I usually come in the top third of the league
 - [ ] Have fun :grin:
 
-To be continued...
+# In Progress
+- [ ] Update the dataset to include conference flags, timezone deltas, and coaching tenure deltas
+- [ ] Check how many records are missing specific datapoints and try to decide on reasonable substitutions

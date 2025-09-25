@@ -212,3 +212,4 @@ __marimo__/
 #Project
 /data/raw*
 /local
+/data/reference
