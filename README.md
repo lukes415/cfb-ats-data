@@ -1,8 +1,11 @@
 # College Football Against the Spread Picker
 This repo is for producing datasets and machine learning models to pick college football games against the spread
 
+# Understanding
+The primary file is [here](/data/notebooks/hate_watch_ATS_data_file.ipynb)
+
 # Current Status
-Experimentation phase -- trying to build a good dataset and get better performance than my initial 51%
+I'm currently focusing on building out my [API](https://github.com/lukes415/cfb-ats-api) so that I can separate dataset creation from data querying logic. 
 
 # Data Source
 We pull, clean, and manipulate data from:
