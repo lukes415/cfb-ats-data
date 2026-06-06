@@ -1,0 +1,8 @@
+cfbd
+pandas
+numpy
+scikit-learn
+category-encoders
+joblib
+pyzipcode
+python-dateutil
