@@ -33,24 +33,24 @@
     "spread",
     "home_favorite",
     "temperature",
-    "dew_point",
-    "humidity",
     "precipitation",
     "weather_condition",
     "home_pregame_elo",
     "away_pregame_elo",
-    "wind_dir",
-    "atm_pressure",
     "rest_diff",
     "home_ats_last4",
     "away_ats_last4",
+    "home_ats_season_covers",
+    "home_ats_season_games",
+    "away_ats_season_covers",
+    "away_ats_season_games",
     "home_team_id",
     "away_team_id"
   ],
   "top_factors": [
-    "Conference game",
-    "Neutral site",
-    "Home recent form (ATS)",
-    "Atm Pressure"
+    "Away team's historical ATS tendency",
+    "Home team's historical ATS tendency",
+    "Away ELO rating",
+    "Home ELO rating"
   ]
 }
